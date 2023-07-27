@@ -1,0 +1,22 @@
+.container {
+    outline: 2px solid #000;
+    width: 900px;
+    height: 900px;
+    margin:auto;
+	font-size: 0;
+}
+
+.cell {
+    margin: 0;
+	padding: 0;
+    border: none;
+    outline: 1px solid black;
+    display: inline-block;
+	font-size: 0;
+
+}
+
+.hovered {
+	background-color: black;
+}
+
